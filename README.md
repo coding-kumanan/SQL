@@ -30,7 +30,5 @@ this is contact information of manivannan kumanan
 Database is a organized collection of data typically stored electronically in a computer system . It is usually controlled by th Database management system. 
 
 ## What is Database Mangement System?
-Database Mangement system also refered as DBMS It is a software to manage databases. It act like inferface between database and its end users or Programs. DBMS allows users to retrive, update, insert and delete data from the Database. It also do variety of admistrative operation like user management, backup, monitor and recovery in the database. 
-
-##
+Database Mangement system also refered as DBMS It is a software to manage databases. It act like inferface between database and its end users or Programs. DBMS allows users to retrive, update, insert and delete data from the Database. It also do variety of admistrative operation like user management, backup, monitor and recovery in the database.
 
