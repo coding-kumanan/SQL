@@ -1,21 +1,21 @@
 # SQL
 
-##Fundamentals
+## Fundamentals
 
-##What is data?
+## What is data?
 Data is a collection of values. Those values can be charectors, numbers, or any other data types. 
 
-##Waht is information?
+## Waht is information?
 Information is a collection of data. Information is a data that was processed in a way that human can understand,read and use it. 
 
-##Example of Data is 
+## Example of Data is 
 ```
 kumanan,123, main street, manivannan, 630550
 
 In above example the data is random words and numbers sperated by commas. 
 
 ```
-##Example of information is 
+## Example of information is 
 
 ```
 Manivannan kumanan
