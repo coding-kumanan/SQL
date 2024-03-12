@@ -46,4 +46,37 @@ Table is logical structure consist of Row and Colums. Row is also called Records
 
 Attributes (columns) specify a data type, and each record (or row) contains the value of that specific data type. All tables in a relational database have an attribute known as the primary key, which is a unique identifier of a row, and each row can be used to create a relationship between different tables using a foreign key—a reference to a primary key of another existing table. 
 
+## SQL Defenition (Structured Query Language):
+SQL was invented in the 1970s based on the relational data model by Donald Chamberlin and Raymond Boyce. It was initially known as the structured English query language (SEQUEL). The term was later shortened to SQL.
+
+It is a high level programming language used to storing, and processing information in a relational database. we can use SQL statement to store, remove, update, search, retrive information from the database. SQL also used to maintain and optimize database performance. 
+
+All queries in a SQL are ended with semicolon. It is not case sensitive. 
+
+## Data Integrity:
+Data Integrity is used to maintain the accuracy and consistency of data in a table. It is used to restric the invalid or duplicate data entered into the  table. 
+
+we can achive data intergrity in two ways 
+```
+    1. Data Types
+    2. Constrains 
+```
+## Data Types:
+A data type is an attribute that specifies the type of data that the object can hold. It is used to specify the types of data to be stored for the selected column in the table. The different types of Data Types are in Orcale SQL
+```
+Numbers, Character, Varchar2, Date.
+
+```
+## Number DataType: 
+It is an attribute that specifies the numeric values of data. This will allow only numbers to store. 
+
+Syntax:
+```
+NUMBER (SIZE) 
+CREATE TABLE persons (persion_id NUMBER(3));
+```
+
+
+
+
 
